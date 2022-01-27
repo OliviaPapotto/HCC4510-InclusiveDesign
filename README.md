@@ -1,7 +1,7 @@
 # HCC4510-InclusiveDesign
 
 ## Project
-For this course, our final project was to design three prototypes for different portions of a completely accessible ride-sharing platform. 
+For this course, our final project was to design three prototypes for different portions of a completely accessible ride-sharing platform. These three prototypes included an accessible ride sharing application, an internal machine-human interfance for the ride-sharing vehicle, and a mockup of a vehicle that would be accessible to all patrons. For the accessible ride sharing application portion, I chose to make mock-ups for a web application in order to make it accessible on a computer or mobile device. These mockups were mainly developed in Adobe XD, while the vehicle design was sketched through Paint. This project and its relevant coursework taught me the importance of making accessible designs. 
 
 ### Accessible Ride Sharing Application
 
